@@ -1,5 +1,7 @@
 These are the changes I've made to Udacity's Intro to Backend hw4 so that it uses ndb instead of db.
 
+Please feel free to make a pull request if you notice any errors.
+
 1) line 11 Change from google.appengine.ext import db to
 
 from google.appengine.ext import ndb
